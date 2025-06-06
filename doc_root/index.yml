@@ -1,0 +1,5 @@
+# doc_root/index.yaml
+title: Swagger Petstore API
+links:
+  - title: Swagger Petstore API
+    href: openapi/
