@@ -1,0 +1,11 @@
+# doc_root/toc.yaml
+title: Swagger Petstore API
+href: index.yaml
+items:
+  - name: Swagger Petstore API
+    include:
+      path: openapi
+      includers:
+        - name: openapi
+          input: openapi.yaml
+      mode: link
